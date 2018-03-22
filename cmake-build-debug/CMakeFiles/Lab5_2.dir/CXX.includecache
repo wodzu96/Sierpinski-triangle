@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wodzu/Projects/CLionProjects/Sierpinski-triangle/main.cpp
+OpenGL/gl.h
+-
+GLUT/glut.h
+-
+cmath
+-
+cstdlib
+-
+ctime
+-
+iostream
+-
+
